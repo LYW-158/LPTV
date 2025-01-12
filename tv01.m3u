@@ -10,4 +10,4 @@ https://gitlab.com/lr77/IPTV/-/raw/main/%E8%B5%B7%E9%A3%8E%E4%BA%86.mp4
 #EXTINF：-1tvg-id="1"tvg-name="CCTV1"tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png"group-title="中央频道"，CCTV-1综合
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030810/1.m3u8$LR•IPV6『 线路1』
 #EXTINF：-1tvg-id="2"tvg-name="CCTV16"tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV16.png"group-title="中央频道"，CCTV-16奥林匹克
-http://[2409:8087:1415:22::1106]/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227346/index.m3u8$LR•IPV6『 线路2』
+http://[2409:8087:1415:22::1106]/wh7f454c46tw522573281_-2113090248/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227346/index.m3u8?icpid=88888890&RTS=1736687728&from=23&ocs=2_2409:8087:1415:22::101b_80&hms_devid=1526&online=1736687728&vqe=3『 线路2』
